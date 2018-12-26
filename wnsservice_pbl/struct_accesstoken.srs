@@ -1,0 +1,7 @@
+$PBExportHeader$struct_accesstoken.srs
+global type struct_accesstoken from structure
+	string		token_type
+	string		access_token
+	long		expires_in
+end type
+

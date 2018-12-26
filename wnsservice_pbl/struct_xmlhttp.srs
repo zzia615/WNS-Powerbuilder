@@ -1,0 +1,6 @@
+$PBExportHeader$struct_xmlhttp.srs
+global type struct_xmlhttp from structure
+	long		status
+	string		data
+end type
+

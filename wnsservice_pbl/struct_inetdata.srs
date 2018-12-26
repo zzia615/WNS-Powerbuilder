@@ -1,0 +1,7 @@
+$PBExportHeader$struct_inetdata.srs
+global type struct_inetdata from structure
+	string		status
+	blob		data
+	string		stringData
+end type
+
