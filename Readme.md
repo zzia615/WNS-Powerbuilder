@@ -1,7 +1,8 @@
 # WNS-windows推送服务 
 ## 环境
 >1. powerbuilder9.0或以上
->2. 需要有uwp应用（并且关联商店）
+>2. 需要有微软[开发者账号](https://developer.microsoft.com/zh-cn/windows)
+>3. 需要有[uwp应用](https://apps.dev.microsoft.com/#/appList)（并且关联商店）
 
 ## 说明
 >1. pbl源码维护wnsservice_pbl，程序版本是Powerbuilder9.0。 
